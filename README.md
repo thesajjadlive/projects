@@ -18,7 +18,7 @@ I'm a Professional Laravel Developer with comprehensive knowledge. I have been w
 - [CARE247](https://care247.tech)
 - [GTS365](https://gts365.net)
 - [FRONTIA LIMITED](https://frontia.com.bd)
-- [ADDGROW PRINTING PRSS](https://addgrow.us)
+- [ADDGROW PRINTING PRESS](https://addgrow.us)
 
 - [HEALTHBD24](https://healthbd24.com)
 - [HEALTHY HOME](http://www.healthyhomebd.com)
@@ -46,7 +46,6 @@ I'm a Professional Laravel Developer with comprehensive knowledge. I have been w
 - [INVENTORY](https://i.postimg.cc/YS0RZhLk/inventory.png)
 
 - [TECHLIFE](https://www.techlife.com.bd)
-- [BOOKSFACTORY](https://booksfactory.com.bd)
 - [NEW TO-LET](http://newtolet.com)
 - [SPARK KITCHEN](https://apps.piit.us/restaurant)
 
